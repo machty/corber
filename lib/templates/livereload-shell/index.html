@@ -23,11 +23,13 @@
       var url = '{{liveReloadUrl}}';
       window.location.replace(url);
 
+      setTimeout(function() {
+        let content = document.getElementsByTagName('p')[0].innerText;
+        alert(content);
+      }, 5000);
 
-     setTimeout(function() {
-       let content = document.getElementsByTagName('p')[0].innerText;
-       alert(content);
-     }, 5000);
+      var url = '{{liveReloadUrl}}';
+      window.location.replace(url);
     </script>
   </body>
 </html>
