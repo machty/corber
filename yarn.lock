@@ -5983,9 +5983,9 @@ spdx-license-ids@^1.0.2, spdx-license-ids@~1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/spdx-license-ids/-/spdx-license-ids-1.2.2.tgz#c9df7a3424594ade6bd11900d596696dc06bac57"
 
-splicon@0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/splicon/-/splicon-0.0.10.tgz#063ffd5496fd13af0a56d26c1e8953964229b1b0"
+splicon@0.0.12:
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/splicon/-/splicon-0.0.12.tgz#a504d9ae61c5b3881a87fa791ac5fb7926b74ece"
   dependencies:
     chalk "^0.4.0"
     lodash "^4.13.1"
